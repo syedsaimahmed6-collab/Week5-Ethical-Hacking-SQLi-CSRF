@@ -1,0 +1,14 @@
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Login attempt by admin at 2025-04-07T10:15:30.000Z"}
+{"level":"info","message":"Successful login: admin"}
+{"level":"warn","message":"Failed login for: hacker at 2025-04-07T10:16:45.000Z"}
+{"level":"warn","message":"Wrong password for: admin | Attempt #1"}
+{"level":"warn","message":"Wrong password for: admin | Attempt #2"}
+{"level":"warn","message":"Wrong password for: admin | Attempt #3"}
+{"level":"warn","message":"Wrong password for: admin | Attempt #4"}
+{"level":"warn","message":"Wrong password for: admin | Attempt #5"}
+{"level":"warn","message":"Account locked: admin"}
+{"level":"warn","message":"CSRF attack detected from IP: 192.168.1.100"}
+{"level":"info","message":"User created: Ali Hassan"}
+{"level":"info","message":"User deleted: ID 1014"}
+{"level":"error","message":"Failed to insert user"}
